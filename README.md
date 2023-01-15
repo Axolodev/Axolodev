@@ -47,22 +47,3 @@ Name | Description | Status
 [Next Appwrite Users](https://github.com/RobRuizR/next-appwrite-users) | App that showcases how to use Next.js with Appwrite as its backend | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg)
 [ESP8266 Appwrite Led](https://github.com/RobRuizR/esp8266-appwrite-led) | App that showcases how to use Next.js + Appwrite to control an Arduino (Esp8266) | ![In Progress](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg)
 [Next Congo Theme](https://github.com/RobRuizR/esp8266-appwrite-led) | Next.js implementation of jpanther's congo theme | ![In Progress](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg)
-
-
-<br />
-
-### Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=axolodev&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div> 
-
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-<br/>  
