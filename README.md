@@ -16,28 +16,14 @@
 </a>  
 </div>
 
-## <div align="center">I'm Roberto, an axolotl / frontend developer 💻 working remotely from Germany</div>  
+## <div align="center">I'm Roberto, an axolotl / frontend developer</div>  
 
-- 🌱 I’m learning how to use Tailwind and Svelte!
-- 🧑‍🎓 I'm currently studying a masters in HCI  
-- 🛠 I’m currently working on [Congo, a Next.js theme](https://github.com/RobRuizR/next-theme-congo)  
-- 👨‍🏫 I'm happy to help you through JavaScript / React issues  
-
-<br/>
-
-## My main stack
-<br />
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a> &nbsp; <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a> &nbsp; <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="75" /></a> &nbsp; <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" width="65" /></a>
-  <br />
-
-</div>
-
-<br/>
-
-#### Other technologies I use
-
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  &nbsp; <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a> &nbsp; <a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px"  src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25" /></a> &nbsp; <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a> &nbsp; <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" /></a>  &nbsp; <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a> &nbsp; <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" width="25" /></a>
+| About me | My stack of choice |
+| -------- | ------------------ |
+| - 🌱 I’m learning how to use Tailwind and Svelte! | - React |
+| - 🧑‍🎓 I'm currently studying a masters in HCI | - TypeScript | 
+| - 🛠 I’m currently working on [Congo, a Next.js theme](https://github.com/RobRuizR/next-theme-congo) | - Next.js |
+| - 👨‍🏫 I'm happy to help you through JavaScript / React issues | - Jest |
 
 <br/>  
 
