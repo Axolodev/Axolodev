@@ -35,4 +35,4 @@ Name | Description | Status
 -----|-------------|--------
 [Next Appwrite Users](https://github.com/Axolodev/next-appwrite-users) | App that showcases how to use Next.js with Appwrite as its backend | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg)
 [ESP8266 Appwrite Led](https://github.com/Axolodev/esp8266-appwrite-led) | App that showcases how to use Next.js + Appwrite to control an Arduino (Esp8266) | ![In Progress](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg)
-[Next Congo Theme](https://github.com/Axolodev/next-theme-congo) | Next.js implementation of jpanther's congo theme | ![In Progress](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg)
+[Next Congo Theme](https://github.com/Axolodev/next-theme-congo) | Next.js implementation of jpanther's congo theme | ![Maintaining](https://img.shields.io/badge/Status-MAINTAINING-blue.svg)
