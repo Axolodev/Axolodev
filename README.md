@@ -18,7 +18,7 @@
 
 ## <div align="center">I'm Roberto, an axolotl / frontend developer 💻 working remotely from Germany</div>  
 
-- 🌱 I’m learning how to use Tailwind  
+- 🌱 I’m learning how to use Tailwind and Svelte!
 - 🧑‍🎓 I'm currently studying a masters in HCI  
 - 🛠 I’m currently working on [Congo, a Next.js theme](https://github.com/RobRuizR/next-theme-congo)  
 - 👨‍🏫 I'm happy to help you through JavaScript / React issues  
