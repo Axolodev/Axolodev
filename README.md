@@ -35,4 +35,4 @@ Name | Description | Status
 -----|-------------|--------
 [Next Appwrite Users](https://github.com/Axolodev/next-appwrite-users) | Showcase on how to use Next.js with Appwrite's Auth services | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg)
 [Next Congo Theme](https://github.com/Axolodev/next-theme-congo) | Next.js + MDX implementation of jpanther's congo theme | ![Maintaining](https://img.shields.io/badge/Status-MAINTAINING-blue.svg)
-[ESP8266 Appwrite Led](https://github.com/Axolodev/esp8266-appwrite-led) | App that showcases how to use Next.js + Appwrite to control an Arduino (Esp8266) | ![In Progress](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg)
+[ESP8266 Appwrite Led](https://github.com/Axolodev/esp8266-appwrite-led) | Showcase on how to use Next.js + Appwrite to control an Arduino (Esp8266) | ![In Progress](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg)
