@@ -20,7 +20,7 @@
 
 - 🌱 I’m learning how to use Tailwind and Svelte!  
 - 🧑‍🎓 I'm currently studying a masters in HCI  
-- 🛠 I’m a Next.js theme called [Congo](https://github.com/Axolodev/next-theme-congo)
+- 🛠 I’m working on a Next.js theme called [Congo](https://github.com/Axolodev/next-theme-congo)
 - 👨‍🏫 I'm happy to help you through JavaScript / React issues
 
 
