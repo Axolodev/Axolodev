@@ -25,7 +25,6 @@
 | - 🛠 I’m currently working on [Congo, a Next.js theme](https://github.com/RobRuizR/next-theme-congo) | - Next.js |
 | - 👨‍🏫 I'm happy to help you through JavaScript / React issues | - Jest |
 
-<br/>  
 
 ### Personal Projects
 Name | Description | Status 
