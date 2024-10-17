@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt=hashnode style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@axolodev" target="_blank">
-  <img src="https://img.shields.io/badge/Youtube_Español-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Youtube_En_Español-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>
 
