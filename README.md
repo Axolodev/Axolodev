@@ -29,7 +29,7 @@
 ### Highlighted Personal Projects 
 Name | Description | Status 
 -----|-------------|--------
-[Master's Thesis](https://github.com/Axolodev/masters-thesis) | My master's thesis, written using LaTeX. | ![In Progress](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg)
+[Master's Thesis](https://github.com/Axolodev/masters-thesis) | My master's thesis, written using LaTeX. | ![In Progress](https://img.shields.io/badge/Status-IN_PROGRESS-yellow.svg)
 [HCI Planner](https://github.com/Axolodev/hci-planner) | Tool designed to help students from the University of Siegen plan their Human-Computer Interaction (HCI) coursework. | ![Completed](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg)
 [Next Theme Congo](https://github.com/Axolodev/next-theme-congo) | Next.js implementation of jpanther's congo theme for a friend of mine | ![Completed](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg)
 
