@@ -17,7 +17,7 @@
 
 - 🧑‍🎓 I'm currently studying a masters in Human-Computer Interaction
 - 🛠 I’m working on my master's thesis, doing both Frontend dev and UX Research
-- 👨‍🏫 I'm happy to help you with JavaScript / React issues. Shoot me a message on Linkedin if you're interested in a mentorship!
+- 👨‍🏫 I'm happy to help you with JavaScript / React issues. Shoot me a message on [my Linkedin](https://www.linkedin.com/in/robruizr/) if you're interested in a mentorship!
 
 
 ### My stack of choice 
