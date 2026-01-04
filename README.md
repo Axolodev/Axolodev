@@ -26,8 +26,10 @@
 - Next.js
 - Jest
 
-### Personal Projects
+### Highlighted Personal Projects 
 Name | Description | Status 
 -----|-------------|--------
-[Next Appwrite Users](https://github.com/Axolodev/next-appwrite-users) | Showcase on how to use Next.js with Appwrite's Auth services | ![Completed](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg)
-[ESP8266 Appwrite Led](https://github.com/Axolodev/esp8266-appwrite-led) | Showcase on how to use Next.js + Appwrite to control an Arduino (Esp8266) | ![In Progress](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg)
+[Master's Thesis](https://github.com/Axolodev/masters-thesis) | My master's thesis, written using LaTeX. | ![In Progress](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg)
+[HCI Planner](https://github.com/Axolodev/hci-planner) | Tool designed to help students from the University of Siegen plan their Human-Computer Interaction (HCI) coursework. | ![Completed](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg)
+[Next Theme Congo](https://github.com/Axolodev/next-theme-congo) | Next.js implementation of jpanther's congo theme for a friend of mine | ![Completed](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg)
+
