@@ -15,11 +15,16 @@
 - 👨‍🏫 I'm happy to help you with JavaScript / React issues. Shoot me a message on [my Linkedin](https://www.linkedin.com/in/robruizr/) if you're interested in a mentorship!
 
 
-### My stack of choice 
-- React 
+### My stack of choice
+#### For apps:
 - TypeScript
 - Next.js
 - Jest
+
+#### For static websites:
+- Astro
+- TypeScript
+- Vitest
 
 ### Highlighted Personal Projects 
 Name | Description | Status 
