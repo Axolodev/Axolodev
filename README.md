@@ -1,10 +1,10 @@
 <div align="center">
 <a href="https://robruizr.dev" target="_blank">
-  <img src="https://img.shields.io/badge/My_Website-darkblue" alt="My Website" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/My%20Website-darkblue?style=for-the-badge" alt="My Website" style="margin-bottom: 5px;" />
 </a>
   &nbsp;
 <a href="https://linkedin.com/in/robruizr" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 </div>
 
