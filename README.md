@@ -30,6 +30,6 @@
 Name | Description | Status 
 -----|-------------|--------
 [HCI Planner](https://github.com/Axolodev/hci-planner) | Tool designed to help students from the University of Siegen plan their Human-Computer Interaction (HCI) coursework. | ![Completed](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg)
-[G3co](https://github.com/Axolodev/g3co) | Generate fully personalised 3d-printable cards. Uses React Three Fiber. | ![v0.1.0alpha](https://img.shields.io/badge/Status-v0.1.0alpha-LightSeaGreen.svg)
+[G3co](https://github.com/Axolodev/g3co) | Generate fully personalised 3d-printable cards. Uses React Three Fiber. | ![v0.2.2alpha](https://img.shields.io/badge/Status-v0.2.2alpha-LightSeaGreen.svg)
 [Next Theme Congo](https://github.com/Axolodev/next-theme-congo) | Next.js implementation of jpanther's congo theme for a friend of mine | ![Completed](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg)
 
